@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{ivory:'#F8F1E5',maroon:'#782C32',gold:'#C99A45',teal:'#176B67',brown:'#2C1B16',ink:'#35251E',mute:'#77675B',card:'#FFFDF8'},fontFamily:{serif:['Cinzel','Georgia','serif'],sans:['Inter','system-ui','sans-serif'],dev:['"Noto Serif Devanagari"','"Noto Sans Devanagari"','serif']}}},plugins:[]}
