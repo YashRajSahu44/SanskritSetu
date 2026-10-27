@@ -10,6 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Unicode Devanagari](https://img.shields.io/badge/Devanagari-Unicode_Standard-782C32)](https://unicode.org/charts/nameslist/n_0900.html)
 
+<<<<<<< HEAD
 <p align="center">
   <em>विद्या ददाति विनयं विनयाद् याति पात्रताम्।<br/>
   पात्रत्वाद् धनमाप्नोति धनाद् धर्मं ततः सुखम्॥</em><br/>
